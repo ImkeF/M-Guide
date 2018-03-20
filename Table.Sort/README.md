@@ -20,7 +20,7 @@ Table.Sort is similar to List.Sort but requires a table as input.
 
 ```Table.Sort(  
      Table.FromRecords(  
- {  
+  {  
 l 
       [OrderID = 1, CustomerID = 1, Item = "Fishing rod", Price = 100.0],  
   
@@ -62,7 +62,7 @@ OrderID | CustomerID | Item | Price
 
 ## Caveats
 - The sort order will not always be kept within further steps of the query. This is by design, see comment from Tristan St-Cyr: https://social.technet.microsoft.com/Forums/WINDOWS/en-US/30e9ab27-23a5-465b-a0c4-36e4e48ce2db/bug-or-feature-when-querying-sqlserver-data?forum=powerquery.
-- To make the sort order stick, you have to wrap the function expression into a Table.Buffer like so: Table.Buffer(Table.Sort(...YourSortExpression...))
+- To make the sort order stick, you have to wrap the function expression into a Table.Buffer like so: Table.Buffer(Table.Sort(...YourSortExpression...)), or see this blogpost: http://www.excelando.co.il/en/powerquery-remove-duplicates-bug-workaround/
 
 
 ## Alternatives
