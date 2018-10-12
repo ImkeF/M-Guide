@@ -28,7 +28,9 @@ Divides two numbers and returns the remainder of the resulting number.
 - [Number.ModX](../Number.ModX.pq) : Returns the same results than the modulo-function in Excel and DAX 
 
 
-## Performance
+## Performance considerations
+
+## Useful links
 
 ## Link to official documentation
 https://msdn.microsoft.com/en-us/library/mt253344.aspx
