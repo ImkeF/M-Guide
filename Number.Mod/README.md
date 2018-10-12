@@ -21,7 +21,7 @@ Divides two numbers and returns the remainder of the resulting number.
 
 
 ## Caveats
-- Diverging signs at numerator and divisor will lead to different results compared to Excel and DAX (https://github.com/ImkeF/Caveats-in-native-M-functions/blob/master/Number.Mod/Number.ModX.pq) 
+- Diverging signs at numerator and divisor will lead to different results compared to Excel and DAX (https://www.thebiccountant.com/2017/09/13/number-mod-rescue-pack-power-bi-power-query/) 
 
 
 ## Alternatives
