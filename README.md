@@ -1,14 +1,21 @@
 # Caveats-in-native-M-functions
 
-This repository holds descriptions of native M-functions who sometimes don't deliver the expected results (see section "Caveats" in the respective documents above). Workarounds or alternatives are included as well.
+This repository holds alternative function documentation for the M-language, including the following categories:
 
+## Arguments
 
-Please contribute further known issues or alternative solutions.
+## Remarks
 
+## Examples
 
-Thanks a lot, 
+## Caveats
 
-Imke
+## Alternatives
 
-www.TheBIccountant.com
+## Performance considerations
 
+## Useful links
+
+## Link to official documentation
+
+Pull requests are very welcome.
