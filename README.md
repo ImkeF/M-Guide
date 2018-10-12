@@ -1,4 +1,4 @@
-# Caveats-in-native-M-functions
+# M-Guide
 
 This repository holds alternative function documentation for the M-language, including the following categories:
 
