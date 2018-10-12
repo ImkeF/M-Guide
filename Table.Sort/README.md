@@ -67,7 +67,9 @@ OrderID | CustomerID | Item | Price
 
 ## Alternatives
 --
-## Performance
+## Performance considerations
+--
+## Useful links
 --
 ## Link to official documentation
 https://msdn.microsoft.com/en-us/library/mt260813.aspx
