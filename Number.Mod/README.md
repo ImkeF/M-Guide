@@ -25,7 +25,7 @@ Divides two numbers and returns the remainder of the resulting number.
 
 
 ## Alternatives
-- [Number.ModX](../Number.ModX.pq) : Returns the same results than the modulo-function in Excel and DAX 
+- [Number.ModX](https://github.com/ImkeF/M/blob/master/Library/Number.ModXls.pq) : Returns the same results than the modulo-function in Excel and DAX 
 
 
 ## Performance considerations
