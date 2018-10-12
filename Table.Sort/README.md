@@ -66,7 +66,8 @@ OrderID | CustomerID | Item | Price
 
 
 ## Alternatives
---
+https://github.com/ImkeF/M/blob/master/Library/Table.SortB.pq
+
 ## Performance considerations
 --
 ## Useful links
