@@ -5,10 +5,15 @@ This repository holds alternative function documentation for the M-language, inc
 - Arguments
 - Remarks
 - Examples
-**- Caveats**
-**- Alternatives**
-**- Performance considerations**
-**- Useful links**
+
+- **Caveats**
+
+- **Alternatives**
+
+- **Performance considerations**
+
+- **Useful links**
+
 - Link to official documentation
 
 Pull requests are very welcome.
