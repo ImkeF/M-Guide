@@ -8,6 +8,8 @@ This repository holds alternative function documentation for the M-language, inc
 
 - **Caveats**
 
+- **Effect on query folding**
+
 - **Alternatives**
 
 - **Performance considerations**
